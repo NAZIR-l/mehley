@@ -9,7 +9,7 @@
       <q-card-section>
         <div class="text-center q-pt-lg">
           <div class="col text-h6 ellipsis">
-            SignUp
+            Sign_Up
           </div>
         </div>
       </q-card-section>
